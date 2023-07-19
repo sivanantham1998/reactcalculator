@@ -1,0 +1,1 @@
+export const API = 'https://645dee9a12e0a87ac0e32687.mockapi.io/siva'
