@@ -29,6 +29,6 @@ export default function Calculator(){
             <button onClick={clear}name="clear">clear</button>
             <button onClick={handleClick} name="+">plus</button>
             
-w        </>
+        </>
     )
 }
